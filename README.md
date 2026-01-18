@@ -1,4 +1,4 @@
-# Music Following Robot
+# Sound Following Robot
 Final Project for EEC010 - Introduction to Digital & Analog Systems
 
 ## About
